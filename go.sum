@@ -1,0 +1,4 @@
+github.com/FZambia/statik v0.1.1 h1:jW7qQil6v/B8ao774FNQcxyCCxzOklIBpsHWZ5/8YWo=
+github.com/FZambia/statik v0.1.1/go.mod h1:EqC55Pa/sH33dUeH/rkKY8EHRfnm2JyV+ORPzURdGm0=
+github.com/rakyll/statik v0.1.6 h1:uICcfUXpgqtw2VopbIncslhAmE5hwc4g20TEyEENBNs=
+github.com/rakyll/statik v0.1.6/go.mod h1:OEi9wJV/fMUAGx1eNjq75DKDsJVuEv1U0oYdX6GX8Zs=
